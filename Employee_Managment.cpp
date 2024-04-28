@@ -32,17 +32,7 @@ void Employee_Management::remove_employee(std::string name) {
             break;
         }
     }
-}
 
-// Allows user/Manager to display everyone in the company
-void Employee_Management::display_employee() {
-    for (const auto& employee : employee) {
-        std::cout << "Name: " << employee._empNames << std::endl;
-        std::cout << "ID Number: " << employee._empId << std::endl;
-        std::cout << "Department:" << employee._empDepartment << std::endl;
-        std::cout << "Pay: " << employee._empPay << std::endl;
-        std::cout << "-----------------------------------" << std::endl;
-    }
 }
 ;
 
