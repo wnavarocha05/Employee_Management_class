@@ -47,7 +47,6 @@ public:
     //----------------------------------------------
     void add_employee(std::string name, int id, std::string department, float pay);
     void remove_employee(std::string name);
-    void display_employee();
 
 };
 
