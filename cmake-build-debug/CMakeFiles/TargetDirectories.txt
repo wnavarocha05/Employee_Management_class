@@ -1,0 +1,3 @@
+/Users/wnavarocha/CLionProjects/Employee_Management class/cmake-build-debug/CMakeFiles/Employee_Management_class.dir
+/Users/wnavarocha/CLionProjects/Employee_Management class/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wnavarocha/CLionProjects/Employee_Management class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
